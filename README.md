@@ -1,0 +1,1 @@
+# realization of the tutorial of introduction on the official site of django
